@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/herveblondeau/DevProject/_apis/build/status%2Fherveblondeau.gitapp?branchName=main)](https://dev.azure.com/herveblondeau/DevProject/_build/latest?definitionId=4&branchName=main)
