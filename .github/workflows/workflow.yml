@@ -17,5 +17,5 @@ jobs:
       with:
         azure-devops-project-url: https://dev.azure.com/herveblondeau/DevProject
         azure-pipeline-name: 'herveblondeau.gitapp'
-        azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+        azure-devops-token: 'mxujd7rk5awlpv7mfjbzfl47tffwqbkx4klken6com5auwhekgqq' # for testing purposes - not valid anymore ;-)
 
